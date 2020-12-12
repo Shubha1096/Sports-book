@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.h3 {
+  font-size: large;
+}
+.responsive-image {
+  height: 400px;
+}
+.input {
+  width: 40%;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+.errormessage {
+  font-size: large;
+  color: red;
+}
